@@ -13,7 +13,7 @@
 In this lesson, we want to explore how `mapStateToProps` is used to connect
 regular React components with the **Redux** store. This is also a good
 opportunity to review the steps for using the `redux` and `react-redux`
-packages in your app.
+packages in your app..
 
 ## Instructions
 
